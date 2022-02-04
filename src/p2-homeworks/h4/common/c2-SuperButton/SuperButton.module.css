@@ -1,0 +1,28 @@
+.default {
+    display: inline-block;
+    height: 50px;
+    margin: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background: #0AC883;
+    box-shadow: 0px 8px 20px rgb(24 219 148 / 35%);
+    border-radius: 50px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.default:disabled {
+    opacity: 0.5;
+}
+
+.red {
+    background: red;
+}

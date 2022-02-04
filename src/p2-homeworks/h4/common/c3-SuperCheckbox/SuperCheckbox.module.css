@@ -1,0 +1,20 @@
+.label {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.checkbox {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    margin: 10px;
+    background-color: #eee;
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+}
+
+.spanClassName {
+    font-size: 24px;
+    color: #31405b;
+}
