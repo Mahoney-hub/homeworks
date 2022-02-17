@@ -1,9 +1,10 @@
 import React from 'react';
+import HW7 from '../../h7/HW7';
 
 export const Junior = () => {
     return (
         <div>
-            <h2> JUNIOR PAGE</h2>
+            <HW7/>
         </div>
     );
 };
