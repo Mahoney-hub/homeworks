@@ -67,6 +67,7 @@
 
 .label {
     width: 300px;
+    height: 75px;
     font: bold 48px 'Droid Sans', Arial, sans-serif;
     text-align: center;
     color: #111;
