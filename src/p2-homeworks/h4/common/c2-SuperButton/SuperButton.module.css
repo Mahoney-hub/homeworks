@@ -17,6 +17,15 @@
     text-transform: uppercase;
     letter-spacing: 2px;
     cursor: pointer;
+    transition: transform 0.2s linear;
+}
+
+.default:hover {
+    background: #00e676;
+}
+
+.default:active {
+    transform: scale(0.9);
 }
 
 .default:disabled {
@@ -25,4 +34,8 @@
 
 .red {
     background: red;
+}
+
+.red:hover {
+    background-color: crimson;
 }
