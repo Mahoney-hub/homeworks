@@ -5,6 +5,7 @@ import App from './p1-main/m1-ui/u1-app/App'
 import * as serviceWorker from './serviceWorker'
 import store from './p2-homeworks/h10/bll/store';
 import {Provider} from 'react-redux';
+import 'antd/dist/antd.css';
 
 ReactDOM.render(
     <React.StrictMode>

@@ -1,0 +1,13 @@
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.count {
+    padding: 10px;
+    font-size: 40px;
+    font-weight: 700;
+}
