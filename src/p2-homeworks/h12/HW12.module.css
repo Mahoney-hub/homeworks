@@ -1,3 +1,10 @@
+.wrapper {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .dark {
     background: dimgrey;
 }
@@ -21,3 +28,20 @@
 .some-text {
     color: darkslateblue;
 }
+
+.teal {
+    background: teal;
+}
+
+.teal-text {
+    color: #f9f9ff;
+}
+
+.darkBlue {
+    background: darkslateblue;
+}
+
+.darkBlue-text {
+    color: white;
+}
+
