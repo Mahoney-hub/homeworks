@@ -1,9 +1,10 @@
 import React from 'react';
+import {HW13} from '../../h13/HW13';
 
 export const JuniorPlus = () => {
     return (
         <div>
-            <h2> JUNIOR PLUS PAGE</h2>
+            <HW13/>
         </div>
     );
 };
